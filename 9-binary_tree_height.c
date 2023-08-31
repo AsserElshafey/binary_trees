@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 /**
- * binary_tree_height - pre-order traversal
- * @tree: tree to traverse
+ * binary_tree_height - height of the binary tree
+ * @tree: root of the tree
  * Return: height of binary tree, 0 on null or failure
  */
 
